@@ -1,3 +1,9 @@
+初始化项目
+
+```
+make init
+```
+
 全局数据
 global/global.go
 
